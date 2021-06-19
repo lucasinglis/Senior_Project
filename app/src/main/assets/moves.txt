@@ -1,0 +1,463 @@
+astonish
+    type : ghost
+    category : physical
+    power : 30
+    accuracy : 100
+    pp : 15
+    info : none
+poison powder
+    type : poison
+    category : status
+    power : 0
+    accuracy : 75
+    pp : 35
+    info : poison
+needle arm
+    type : grass
+    category : physical
+    power : 60
+    accuracy : 100
+    pp : 15
+    info : none
+poison fang
+    type : poison
+    category : physical
+    power : 50
+    accuracy : 100
+    pp : 15
+    info : none
+struggle
+    type : none
+    category : physical
+    power : 50
+    accuracy : 100
+    pp : 10000
+    info : none
+aerial ace
+    type : flying
+    category : physical
+    power : 60
+    accuracy : 100
+    pp : 20
+    info :
+air cutter
+    type : flying
+    category : special
+    power : 60
+    accuracy : 95
+    pp : 25
+    info :
+blast burn
+    type : fire
+    category : special
+    power : 150
+    accuracy : 90
+    pp : 5
+    info :
+blaze kick
+    type : fire
+    category : physical
+    power : 85
+    accuracy : 90
+    pp : 10
+    info :
+brick break
+    type : fighting
+    category : physial
+    power : 75
+    accuracy : 100
+    pp : 15
+    info :
+covet
+    type : normal
+    category : physical
+    power : 60
+    accuracy : 100
+    pp : 25
+    info :
+crush claw
+    type : normal
+    category : physical
+    power : 75
+    accuracy : 95
+    pp : 10
+    info :
+dragon claw
+    type : dragon
+    category : physical
+    power : 80
+    accuracy : 100
+    pp : 15
+    info :
+eruption
+    type : fire
+    category : special
+    power : 150
+    accuracy : 100
+    pp : 5
+    info :
+extrasensory
+    type : psychic
+    category : special
+    power : 80
+    accuracy : 100
+    pp : 20
+    info :
+frenzy plant
+    type : grass
+    category : special
+    power : 150
+    accuracy : 90
+    pp : 5
+    info :
+hyper voice
+    type : normal
+    category : special
+    power : 90
+    accuracy : 100
+    pp : 10
+    info :
+knock off
+    type : dark
+    category : physical
+    power : 65
+    accuracy : 100
+    pp : 20
+    info :
+poison tail
+    type : poison
+    category : physical
+    power : 50
+    accuracy : 100
+    pp : 25
+    info :
+rock tomb
+    type : rock
+    category : physical
+    power : 60
+    accuracy : 95
+    pp : 15
+    info :
+shadow punch
+    type : ghost
+    category : physical
+    power : 60
+    accuracy : 100
+    pp : 20
+    info :
+shock wave
+    type : electric
+    category : special
+    power : 60
+    accuracy : 100
+    pp : 20
+    info :
+silver wind
+    type : bug
+    category : special
+    power : 60
+    accuracy : 100
+    pp : 5
+    info :
+signal beam
+    type : bug
+    category : special
+    power : 75
+    accuracy : 100
+    pp : 15
+    info :
+sky uppercut
+    type : fighting
+    category : physical
+    power : 85
+    accuracy : 90
+    pp : 15
+    info :
+will-o-wisp
+    type : fire
+    category : status
+    power : 0
+    accuracy : 85
+    pp : 15
+    info : burn
+water spout
+    type : water
+    category : special
+    power : 150
+    accuracy : 100
+    pp : 5
+    info :
+volt tackle
+    type : electric
+    category : physical
+    power : 120
+    accuracy : 100
+    pp : 15
+    info :
+glare
+    type : normal
+    category : status
+    power : 0
+    accuracy : 100
+    pp : 30
+    info : paralysis
+stun spore
+    type : grass
+    category : status
+    power : 0
+    accuracy : 75
+    pp : 30
+    info : paralysis
+thunder wave
+    type : electric
+    category : status
+    power : 0
+    accuracy : 95
+    pp : 20
+    info : paralysis
+poison gas
+    type : poison
+    category : status
+    power : 0
+    accuracy : 90
+    pp : 40
+    info : poison
+toxic thread
+    type : poison
+    category : status
+    power : 0
+    accuracy : 100
+    pp : 20
+    info : poison
+freeze-dry
+    type : ice
+    category : status
+    power : 0
+    accuracy : 100
+    pp : 10
+    info : freeze
+powder snow
+    type : ice
+    category : status
+    power : 0
+    accuracy : 100
+    pp : 10
+    info : freeze
+meteor mash
+    type : steel
+    category : physical
+    power : 90
+    accuracy : 90
+    pp : 10
+    info :
+mud shot
+    type : ground
+    category : special
+    power : 55
+    accuracy : 95
+    pp : 15
+    info :
+doom desire
+    type : steel
+    category : special
+    power : 140
+    accuracy : 100
+    pp : 5
+    info :
+bone club
+    type : ground
+    category : physical
+    power : 65
+    accuracy : 85
+    pp : 20
+    info :
+earthquake
+    type : ground
+    category : physical
+    power : 100
+    accuracy : 100
+    pp : 10
+    info :
+moongeist beam
+    type : ghost
+    category : special
+    power : 100
+    accuracy : 100
+    pp : 5
+    info :
+shadow ball
+    type : ghost
+    category : special
+    power : 80
+    accuracy : 100
+    pp : 15
+    info :
+shadow claw
+    type : ghost
+    category : physical
+    power : 70
+    accuracy : 100
+    pp : 15
+    info :
+aurora beam
+    type : ice
+    category : special
+    power : 65
+    accuracy : 100
+    pp : 20
+    info :
+ice beam
+    type : ice
+    category : special
+    power : 90
+    accuracy : 100
+    pp : 10
+    info :
+ice fang
+    type : ice
+    category : physical
+    power : 65
+    accuracy : 95
+    pp : 15
+    info :
+ice hammer
+    type : ice
+    category : physical
+    power : 100
+    accuracy : 90
+    pp : 10
+    info :
+heart stamp
+    type : psychic
+    category : physical
+    power : 60
+    accuracy : 100
+    pp : 25
+    info :
+psychic fangs
+    type : psychic
+    category : physical
+    power : 85
+    accuracy : 100
+    pp : 10
+    info :
+psychic
+    type : psychic
+    category : special
+    power : 90
+    accuracy : 100
+    pp : 10
+    info :
+bug bite
+    type : bug
+    category : physical
+    power : 60
+    accuracy : 100
+    pp : 20
+    info :
+steamroller
+    type : bug
+    category : physical
+    power : 65
+    accuracy : 100
+    pp : 20
+    info :
+ancient power
+    type : rock
+    category : special
+    power : 60
+    accuracy : 100
+    pp : 5
+    info :
+power gem
+    type : rock
+    category : special
+    power : 80
+    accuracy : 100
+    pp : 20
+    info :
+rock wrecker
+    type : rock
+    category : physical
+    power : 150
+    accuracy : 90
+    pp : 5
+    info :
+clanging scales
+    type : dragon
+    category : special
+    power : 110
+    accuracy : 100
+    pp : 5
+    info :
+dragon pulse
+    type : dragon
+    category : special
+    power : 80
+    accuracy : 100
+    pp : 10
+    info :
+aqua jet
+    type : water
+    category : physical
+    power : 40
+    accuracy : 100
+    pp : 20
+    info :
+hydro cannon
+    type : water
+    category : special
+    power : 150
+    accuracy : 90
+    pp : 5
+    info :
+hydro pump
+    type : water
+    category : special
+    power : 110
+    accuracy : 80
+    pp : 5
+    info :
+surf
+    type : water
+    category : special
+    power : 90
+    accuracy : 100
+    pp : 15
+    info :
+water pulse
+    type : water
+    category : special
+    power : 60
+    accuracy : 100
+    pp : 20
+    info :
+razor shell
+    type : water
+    category : physical
+    power : 75
+    accuracy : 95
+    pp : 10
+    info :
+waterfall
+    type : water
+    category : physical
+    power : 80
+    accuracy : 100
+    pp : 15
+    info :
+drum beating
+    type : grass
+    category : physical
+    power : 80
+    accuracy : 100
+    pp : 10
+    info :
+energy ball
+    type : grass
+    category : special
+    power : 90
+    accuracy : 100
+    pp : 10
+    info :
+

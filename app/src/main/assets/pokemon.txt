@@ -1,0 +1,1485 @@
+treecko
+    type1 : grass
+    type2 :
+    hp : 147
+    attack : 106
+    defense : 95
+    specialAttack : 128
+    specialDefense : 117
+    speed : 134
+    weakness : fire ice poison flying bug
+    strength : water electric grass ground
+grovyle
+    type1 : grass
+    type2 :
+    hp : 157
+    attack : 128
+    defense : 106
+    specialAttack : 150
+    specialDefense : 128
+    speed : 161
+    weakness : fire ice poison flying bug
+    strength : water electric grass ground
+sceptile
+    type1 : grass
+    type2 : none
+    hp : 177
+    attack : 150
+    defense : 128
+    specialAttack : 172
+    specialDefense : 150
+    speed : 189
+    weakness : fire ice poison flying bug
+    strength : water electric grass ground
+torchic
+    type1 : fire
+    type2 :
+    hp : 152
+    attack : 123
+    defense : 101
+    specialAttack : 134
+    specialDefense : 112
+    speed : 106
+    weakness : ground rock water
+    strength : bug steel fire grass ice fairy
+combusken
+    type1 : fire
+    type2 : fighting
+    hp : 167
+    attack : 150
+    defense : 123
+    specialAttack : 150
+    specialDefense : 123
+    speed : 117
+    weakness : flying ground water psychic
+    strength : bug steel fire grass ice dark
+blaziken
+    type1 : fire
+    type2 : fighting
+    hp : 187
+    attack : 189
+    defense : 124
+    specialAttack : 178
+    specialDefense : 134
+    speed : 145
+    weakness : flying ground water psychic
+    strength : bug steel fire grass ice dark
+mudkip
+    type1 : water
+    type2 : none
+    hp : 157
+    attack : 134
+    defense : 112
+    specialAttack : 112
+    specialDefense : 112
+    speed : 101
+    weakness : grass electric
+    strength : steel fire water ice
+marshtomp
+    type1 : water
+    type2 : ground
+    hp : 177
+    attack : 150
+    defense : 134
+    specialAttack : 123
+    specialDefense : 134
+    speed : 112
+    weakness : grass
+    strength : electric poison rock steel fire
+swampert
+    type1 : water
+    type2 : ground
+    hp : 207
+    attack : 178
+    defense : 156
+    specialAttack : 150
+    specialDefense : 156
+    speed : 123
+    weakness : grass
+    strength : electric poison rock steel fire
+poochyena
+    type1 : dark
+    type2 :
+    hp : 142
+    attack : 117
+    defense : 95
+    specialAttack : 90
+    specialDefense : 90
+    speed : 95
+    weakness : fighting bug fairy
+    strength : ghost dark
+mightyena
+    type1 : dark
+    type2 :
+    hp : 177
+    attack : 156
+    defense : 134
+    specialAttack : 123
+    specialDefense : 123
+    speed : 134
+    weakness : fighting bug fairy
+    strength : ghost dark
+zigzagoon
+    type1 : normal
+    type2 :
+    hp : 145
+    attack : 90
+    defense :  102
+    specialAttack : 90
+    specialDefense : 102
+    speed : 123
+    weakness : fighting
+    strength :
+linoone
+    type1 : normal
+    type2 :
+    hp : 185
+    attack : 134
+    defense : 124
+    specialAttack : 112
+    specialDefense : 124
+    speed : 167
+    weakness : fighting
+    strength :
+wurmple
+    type1 : bug
+    type2 :
+    hp : 152
+    attack : 106
+    defense : 95
+    specialAttack : 79
+    specialDefense : 90
+    speed : 79
+    weakness : flying rock fire
+    strength : fighting ground grass
+silcoon
+    type1 : bug
+    type2 :
+    hp : 157
+    attack : 95
+    defense : 117
+    specialAttack : 84
+    specialDefense : 84
+    speed : 73
+    weakness : flying rock fire
+    strength : fighting ground grass
+beautifly
+    type1 : bug
+    type2 : flying
+    hp : 167
+    attack : 134
+    defense : 112
+    specialAttack : 156
+    specialDefense : 112
+    speed : 128
+    weakness : flying rock fire electric ice
+    strength : fighting bug grass
+cascoon
+    type1 : bug
+    type2 :
+    hp : 157
+    attack : 95
+    defense : 117
+    specialAttack : 84
+    specialDefense : 84
+    speed : 73
+    weakness : flying rock fire
+    strength : fighting ground grass
+dustox
+    type1 : bug
+    type2 : poison
+    hp : 167
+    attack : 112
+    defense : 134
+    specialAttack : 134
+    specialDefense : 156
+    speed : 128
+    weakness : flying rock fire psychic
+    strength : fighting poison bug grass fairy
+lotad
+    type1 : water
+    type2 : grass
+    hp : 147
+    attack : 90
+    defense : 90
+    specialAttack : 101
+    specialDefense : 112
+    speed : 90
+    weakness : flying poison bug
+    strength : ground steel water
+lombre
+    type1 : water
+    type2 : grass
+    hp : 167
+    attack : 112
+    defense : 112
+    specialAttack : 123
+    specialDefense : 134
+    speed : 112
+    weakness : flying poison bug
+    strength : ground steel water
+ludicolo
+    type1 : water
+    type2 : grass
+    hp : 187
+    attack : 134
+    defense : 134
+    specialAttack : 156
+    specialDefense : 167
+    speed : 134
+    weakness : flying poison bug
+    strength : ground steel water
+seedot
+    type1 : grass
+    type2 :
+    hp : 147
+    attack : 101
+    defense : 112
+    specialAttack : 90
+    specialDefense : 90
+    speed : 90
+    weakness : flying poison bug fire ice
+    strength : ground water grass electric
+nuzleaf
+    type1 : grass
+    type2 : dark
+    hp : 177
+    attack : 134
+    defense : 101
+    specialAttack : 123
+    specialDefense : 101
+    speed : 123
+    weakness : fighting flying poison bug fire ice fairy
+    strength : ground ghost water grass electric dark
+shiftry
+    type1 : grass
+    type2 : dark
+    hp : 197
+    attack : 167
+    defense : 123
+    specialAttack : 156
+    specialDefense : 123
+    speed : 145
+    weakness : fighting flying poison bug fire ice fairy
+    strength : ground ghost water grass electric dark
+taillow
+    type1 : normal
+    type2 : flying
+    hp : 147
+    attack : 117
+    defense : 90
+    specialAttack : 90
+    specialDefense : 90
+    speed : 150
+    weakness : rock electric ice
+    strength : bug grass
+swellow
+    type1 : normal
+    type2 : flying
+    hp : 167
+    attack : 150
+    defense : 123
+    specialAttack : 112
+    specialDefense : 112
+    speed : 194
+    weakness : rock electric ice
+    strength : bug grass
+wingull
+    type1 : water
+    type2 : flying
+    hp : 147
+    attack : 90
+    defense : 90
+    specialAttack : 117
+    specialDefense : 90
+    speed : 150
+    weakness : rock electric
+    strength : fighting bug steel fire water
+pelipper
+    type1 : water
+    type2 : flying
+    hp : 167
+    attack : 112
+    defense : 167
+    specialAttack : 150
+    specialDefense : 134
+    speed : 128
+    weakness : rock electric
+    strength : fighting bug steel fire water
+ralts
+    type1 : psychic
+    type2 : fairy
+    hp : 135
+    attack : 84
+    defense : 84
+    specialAttack : 106
+    specialDefense : 95
+    speed : 101
+    weakness : poison ghost steel
+    strength : fighting psychic
+kirlia
+    type1 : psychic
+    type2 : fairy
+    hp : 145
+    attack : 95
+    defense : 95
+    specialAttack : 128
+    specialDefense : 117
+    speed : 112
+    weakness : poison ghost steel
+    strength : fighting psychic
+gardevoir
+    type1 : psychic
+    type2 : fairy
+    hp : 175
+    attack : 128
+    defense : 128
+    specialAttack : 194
+    specialDefense : 183
+    speed : 145
+    weakness : poison ghost steel
+    strength : fighting psychic
+surskit
+    type1 : bug
+    type2 : water
+    hp : 147
+    attack : 90
+    defense : 92
+    specialAttack : 112
+    specialDefense : 114
+    speed : 128
+    weakness : flying rock electric
+    strength : fighting ground steel water ice
+masquerain
+    type1 : bug
+    type2 : flying
+    hp : 177
+    attack : 123
+    defense : 125
+    specialAttack : 145
+    specialDefense : 147
+    speed : 123
+    weakness : flying rock fire electric ice
+    strength : fighting bug grass
+shroomish
+    type1 : grass
+    type2 :
+    hp : 167
+    attack : 101
+    defense : 123
+    specialAttack : 101
+    specialDefense : 123
+    speed : 95
+    weakness : flying poison bug fire ice
+    strength : ground water grass electric
+breloom
+    type1 : grass
+    type2 : fighting
+    hp : 167
+    attack : 200
+    defense : 145
+    specialAttack : 123
+    specialDefense : 123
+    speed : 134
+    weakness : flying poison fire psychic ice fairy
+    strength : ground rock water grass electric dark
+slakoth
+    type1 : normal
+    type2 :
+    hp : 167
+    attack : 123
+    defense : 123
+    specialAttack : 95
+    specialDefense : 95
+    speed : 90
+    weakness : fighting
+    strength :
+vigoroth
+    type1 : normal
+    type2 :
+    hp : 187
+    attack :  145
+    defense : 145
+    specialAttack : 117
+    specialDefense : 117
+    speed : 156
+    weakness : fighting
+    strength :
+slaking
+    type1 : normal
+    type2 :
+    hp : 257
+    attack : 223
+    defense : 167
+    specialAttack : 161
+    specialDefense : 128
+    speed : 167
+    weakness : fighting
+    strength :
+nincada
+    type1 : bug
+    type2 : ground
+    hp : 138
+    attack : 106
+    defense : 156
+    specialAttack : 90
+    specialDefense : 90
+    speed : 101
+    weakness : flying fire water ice
+    strength : fighting poison ground
+ninjask
+    type1 : bug
+    type2 : flying
+    hp : 168
+    attack : 156
+    defense : 106
+    specialAttack : 112
+    specialDefense : 112
+    speed : 233
+    weakness : flying rock fire electric ice
+    strength : fighting bug grass
+shedinja
+    type1 : bug
+    type2 : ghost
+    hp : 1
+    attack : 156
+    defense : 106
+    specialAttack : 90
+    specialDefense : 90
+    speed : 101
+    weakness : flying rock ghost fire dark
+    strength :
+whismur
+    type1 : normal
+    type2 :
+    hp : 171
+    attack : 113
+    defense : 82
+    specialAttack : 113
+    specialDefense : 82
+    speed : 88
+    weakness : fighting
+    strength :
+loudred
+    type1 : normal
+    type2 :
+    hp : 191
+    attack : 135
+    defense : 104
+    specialAttack : 135
+    specialDefense : 104
+    speed : 110
+    weakness : fighting
+    strength :
+exploud
+    type1 : normal
+    type2 :
+    hp : 211
+    attack : 157
+    defense : 126
+    specialAttack : 157
+    specialDefense : 126
+    speed : 132
+    weakness : fighting
+    strength :
+makuhita
+    type1 : fighting
+    type2 :
+    hp : 179
+    attack : 123
+    defense : 90
+    specialAttack : 79
+    specialDefense : 90
+    speed : 84
+    weakness : flying psychic fairy
+    strength : rock bug dark
+hariyama
+    type1 : fighting
+    type2 :
+    hp : 251
+    attack : 189
+    defense : 123
+    specialAttack : 101
+    specialDefense : 123
+    speed : 112
+    weakness : flying psychic fairy
+    strength : rock bug dark
+azurill
+    type1 : normal
+    type2 : fairy
+    hp : 157
+    attack : 79
+    defense : 101
+    specialAttack : 79
+    specialDefense : 101
+    speed : 79
+    weakness : poison steel
+    strength : bug dark
+nosepass
+    type1 : rock
+    type2 :
+    hp : 137
+    attack : 106
+    defense : 205
+    specialAttack : 106
+    specialDefense : 156
+    speed : 90
+    weakness : fighting ground steel water grass
+    strength : normal flying poison fire
+skitty
+    type1 : normal
+    type2 :
+    hp : 157
+    attack : 106
+    defense : 106
+    specialAttack : 95
+    specialDefense : 95
+    speed : 112
+    weakness : fighting
+    strength :
+delcatty
+    type1 : normal
+    type2 :
+    hp : 177
+    attack : 128
+    defense : 128
+    specialAttack : 117
+    specialDefense : 117
+    speed : 134
+    weakness : fighting
+    strength :
+sableye
+    type1 : dark
+    type2 : ghost
+    hp : 157
+    attack : 139
+    defense : 139
+    specialAttack : 128
+    specialDefense : 128
+    speed : 112
+    weakness : fairy
+    strength : poison
+mawile
+    type1 : steel
+    type2 : fairy
+    hp : 157
+    attack : 150
+    defense : 150
+    specialAttack : 117
+    specialDefense : 117
+    speed : 112
+    weakness : ground fire
+    strength : normal flying rock bug grass psychic ice dark fairy
+aron
+    type1 : steel
+    type2 : rock
+    hp : 157
+    attack : 134
+    defense : 167
+    specialAttack : 101
+    specialDefense : 101
+    speed : 90
+    weakness : fighting ground water
+    strength : normal flying rock bug psychic ice dragon fairy
+lairon
+    type1 : steel
+    type2 : rock
+    hp : 167
+    attack : 156
+    defense : 211
+    specialAttack : 112
+    specialDefense : 112
+    speed : 101
+    weakness : fighting ground water
+    strength : normal flying rock bug psychic ice dragon fairy
+aggron
+    type1 : steel
+    type2 : rock
+    hp : 177
+    attack : 178
+    defense : 255
+    specialAttack : 123
+    specialDefense : 123
+    speed : 112
+    weakness : fighting ground water
+    strength : normal flying rock bug psychic ice dragon fairy
+meditite
+    type1 : fighting
+    type2 : psychic
+    hp : 137
+    attack : 101
+    defense : 117
+    specialAttack : 101
+    specialDefense : 117
+    speed : 123
+    weakness : flying ghost fairy
+    strength : fighting rock
+medicham
+    type1 : fighting
+    type2 : psychic
+    hp : 167
+    attack : 123
+    defense : 139
+    specialAttack : 123
+    specialDefense : 139
+    speed : 145
+    weakness : flying ghost fairy
+    strength : fighting rock
+electrike
+    type1 : electric
+    type2 :
+    hp : 147
+    attack : 106
+    defense : 101
+    specialAttack : 128
+    specialDefense : 101
+    speed : 128
+    weakness : ground
+    strength : flying steel electric
+manectric
+    type1 : electric
+    type2 :
+    hp : 177
+    attack : 139
+    defense : 123
+    specialAttack : 172
+    specialDefense : 123
+    speed : 172
+    weakness : ground
+    strength : flying steel electric
+plusle
+    type1 : electric
+    type2 :
+    hp : 167
+    attack : 112
+    defense : 101
+    specialAttack : 150
+    specialDefense : 139
+    speed : 161
+    weakness : ground
+    strength : flying steel electric
+minun
+    type1 : electric
+    type2 :
+    hp : 167
+    attack : 101
+    defense : 112
+    specialAttack : 139
+    specialDefense : 150
+    speed : 161
+    weakness : ground
+    strength : flying steel electric
+volbeat
+    type1 : bug
+    type2 :
+    hp : 172
+    attack : 137
+    defense : 117
+    specialAttack : 108
+    specialDefense : 139
+    speed : 150
+    weakness : flying rock fire
+    strength : fighting ground grass
+illumise
+    type1 : bug
+    type2 :
+    hp : 172
+    attack : 108
+    defense : 117
+    specialAttack : 137
+    specialDefense : 139
+    speed : 150
+    weakness : flying rock fire
+    strength : fighting ground grass
+roselia
+    type1 : grass
+    type2 : poison
+    hp : 157
+    attack : 123
+    defense : 106
+    specialAttack : 167
+    specialDefense : 145
+    speed : 128
+    weakness : flying fire psychic ice
+    strength : fighting water grass electric fairy
+gulpin
+    type1 : poison
+    type2 :
+    hp : 177
+    attack : 104
+    defense : 115
+    specialAttack : 104
+    specialDefense : 115
+    speed : 101
+    weakness : ground psychic
+    strength : fighting poison bug grass fairy
+swalot
+    type1 : poison
+    type2 :
+    hp : 207
+    attack : 137
+    defense : 148
+    specialAttack : 137
+    specialDefense : 148
+    speed : 117
+    weakness : ground psychic
+    strength : fighting poison bug grass fairy
+carvanha
+    type1 : water
+    type2 : dark
+    hp : 152
+    attack : 156
+    defense : 79
+    specialAttack : 128
+    specialDefense : 79
+    speed : 128
+    weakness : fighting bug grass electric fairy
+    strength : ghost steel fire water ice dark
+sharpedo
+    type1 : water
+    type2 : dark
+    hp : 177
+    attack : 189
+    defense : 101
+    specialAttack : 161
+    specialDefense : 101
+    speed : 161
+    weakness : fighting bug grass electric fairy
+    strength : ghost steel fire water ice dark
+wailmer
+    type1 : water
+    type2 :
+    hp : 237
+    attack : 134
+    defense : 95
+    specialAttack : 134
+    specialDefense : 95
+    speed : 123
+    weakness : grass electric
+    strength : steel fire water ice
+wailord
+    type1 : water
+    type2 :
+    hp : 277
+    attack : 156
+    defense : 106
+    specialAttack : 156
+    specialDefense : 106
+    speed : 123
+    weakness : grass electric
+    strength : steel fire water ice
+numel
+    type1 : fire
+    type2 : ground
+    hp : 167
+    attack : 123
+    defense : 101
+    specialAttack : 128
+    specialDefense : 106
+    speed : 95
+    weakness : ground water
+    strength : poison bug steel fire fairy
+camerupt
+    type1 : fire
+    type2 : ground
+    hp : 177
+    attack : 167
+    defense : 134
+    specialAttack : 172
+    specialDefense : 139
+    speed : 101
+    weakness : ground water
+    strength : poison bug steel fire fairy
+torkoal
+    type1 : fire
+    type2 :
+    hp : 177
+    attack : 150
+    defense : 211
+    specialAttack : 150
+    specialDefense : 134
+    speed : 79
+    weakness : ground rock water
+    strength : bug steel fire grass ice fairy
+spoink
+    type1 : psychic
+    type2 :
+    hp : 167
+    attack : 84
+    defense : 95
+    specialAttack : 134
+    specialDefense : 145
+    speed : 123
+    weakness : bug ghost dark
+    strength : fighting psychic
+grumpig
+    type1 : psychic
+    type2 :
+    hp : 187
+    attack : 106
+    defense : 128
+    specialAttack : 156
+    specialDefense : 178
+    speed : 145
+    weakness : bug ghost dark
+    strength : fighting psychic
+spinda
+    type1 : normal
+    type2 :
+    hp : 167
+    attack : 123
+    defense : 123
+    specialAttack : 123
+    specialDefense : 123
+    speed : 123
+    weakness : fighting
+    strength :
+trapinch
+    type1 : ground
+    type2 :
+    hp : 152
+    attack : 167
+    defense : 106
+    specialAttack : 106
+    specialDefense : 106
+    speed : 68
+    weakness : water grass ice
+    strength : poison rock
+vibrava
+    type1 : ground
+    type2 : dragon
+    hp : 157
+    attack : 134
+    defense : 112
+    specialAttack : 112
+    specialDefense : 112
+    speed : 134
+    weakness : ice dragon fairy
+    strength : poison rock fire
+flygon
+    type1 : ground
+    type2 : dragon
+    hp : 187
+    attack : 167
+    defense : 145
+    specialAttack : 145
+    specialDefense : 145
+    speed : 167
+    weakness : ice dragon fairy
+    strength : poison rock fire
+cacnea
+    type1 : grass
+    type2 :
+    hp : 157
+    attack : 150
+    defense : 101
+    specialAttack : 150
+    specialDefense : 101
+    speed : 95
+    weakness : flying poison bug fire ice
+    strength : ground water grass electric
+cacturne
+    type1 : grass
+    type2 : dark
+    hp : 177
+    attack : 183
+    defense : 123
+    specialAttack : 183
+    specialDefense : 123
+    speed : 117
+    weakness : fighting flying poison bug fire ice fairy
+    strength : ground ghost water grass electric dark
+swablu
+    type1 : normal
+    type2 : flying
+    hp : 152
+    attack : 101
+    defense : 123
+    specialAttack : 101
+    specialDefense : 139
+    speed : 112
+    weakness : rock electric ice
+    strength : bug grass
+altaria
+    type1 : dragon
+    type2 : flying
+    hp : 182
+    attack : 134
+    defense : 156
+    specialAttack : 134
+    specialDefense : 172
+    speed : 145
+    weakness : rock ice dragon fairy
+    strength : fighting bug fire water grass
+zangoose
+    type1 : normal
+    type2 :
+    hp : 180
+    attack : 183
+    defense : 123
+    specialAttack : 123
+    specialDefense : 123
+    speed : 156
+    weakness : fighting
+    strength :
+seviper
+    type1 : poison
+    type2 :
+    hp : 180
+    attack : 167
+    defense : 123
+    specialAttack : 167
+    specialDefense : 123
+    speed : 128
+    weakness : ground psychic
+    strength : fighting poison bug grass fairy
+lunatone
+    type1 : rock
+    type2 : psychic
+    hp : 177
+    attack : 117
+    defense : 128
+    specialAttack : 161
+    specialDefense : 150
+    speed : 134
+    weakness : bug ghost steel water grass dark
+    strength : normal flying poison fire psychic
+solrock
+    type1 : rock
+    type2 : psychic
+    hp : 177
+    attack : 161
+    defense : 150
+    specialAttack : 117
+    specialDefense : 128
+    speed : 134
+    weakness : bug ghost steel water grass dark
+    strength : normal flying poison fire psychic
+barboach
+    type1 : water
+    type2 : ground
+    hp : 157
+    attack : 110
+    defense : 104
+    specialAttack : 107
+    specialDefense : 102
+    speed : 123
+    weakness : grass
+    strength : poison rock steel fire
+whiscash
+    type1 : water
+    type2 : ground
+    hp : 217
+    attack : 143
+    defense : 137
+    specialAttack : 140
+    specialDefense : 135
+    speed : 123
+    weakness : grass
+    strength : poison rock steel fire
+corphish
+    type1 : water
+    type2 :
+    hp : 150
+    attack : 145
+    defense : 128
+    specialAttack : 112
+    specialDefense : 95
+    speed : 95
+    weakness : grass electric
+    strength : steel fire water ice
+crawdaunt
+    type1 : water
+    type2 : dark
+    hp : 170
+    attack : 189
+    defense : 150
+    specialAttack : 156
+    specialDefense : 117
+    speed : 117
+    weakness : fighting bug grass electric fairy
+    strength : ghost steel fire water ice dark
+baltoy
+    type1 : ground
+    type2 : psychic
+    hp : 147
+    attack : 101
+    defense : 117
+    specialAttack : 101
+    specialDefense : 134
+    speed : 117
+    weakness : bug ghost water grass ice dark
+    strength : fighting poison rock psychic
+claydol
+    type1 : ground
+    type2 : psychic
+    hp : 167
+    attack : 134
+    defense : 172
+    specialAttack : 134
+    specialDefense : 189
+    speed : 139
+    weakness : bug ghost water grass ice dark
+    strength : fighting poison rock psychic
+lileep
+    type1 : rock
+    type2 : grass
+    hp : 173
+    attack : 102
+    defense : 141
+    specialAttack : 124
+    specialDefense : 152
+    speed : 82
+    weakness : fighting bug steel ice
+    strength : normal electric
+cradily
+    type1 : rock
+    type2 : grass
+    hp : 193
+    attack : 146
+    defense : 163
+    specialAttack : 146
+    specialDefense : 174
+    speed : 104
+    weakness : fighting bug steel ice
+    strength : normal electric
+anorith
+    type1 : rock
+    type2 : bug
+    hp : 152
+    attack : 161
+    defense : 112
+    specialAttack : 101
+    specialDefense : 112
+    speed : 139
+    weakness : rock steel water
+    strength : normal poison
+armaldo
+    type1 : rock
+    type2 : bug
+    hp : 182
+    attack : 194
+    defense : 167
+    specialAttack : 134
+    specialDefense : 145
+    speed : 106
+    weakness : rock steel water
+    strength : normal poison
+feebas
+    type1 : water
+    type2 :
+    hp : 127
+    attack : 73
+    defense : 79
+    specialAttack : 68
+    specialDefense : 117
+    speed : 145
+    weakness : grass electric
+    strength : steel fire water ice
+milotic
+    type1 : water
+    type2 :
+    hp : 202
+    attack : 123
+    defense : 144
+    specialAttack : 167
+    specialDefense : 194
+    speed : 146
+    weakness : grass electric
+    strength : steel fire water ice
+castform
+    type1 : normal
+    type2 :
+    hp : 177
+    attack : 134
+    defense : 134
+    specialAttack : 134
+    specialDefense : 134
+    speed : 134
+    weakness : fighting
+    strength :
+kecleon
+    type1 : normal
+    type2 :
+    hp : 167
+    attack : 156
+    defense : 134
+    specialAttack : 123
+    specialDefense : 189
+    speed : 101
+    weakness : fighting
+    strength :
+shuppet
+    type1 : ghost
+    type2 :
+    hp : 151
+    attack : 139
+    defense : 95
+    specialAttack : 126
+    specialDefense : 93
+    speed : 106
+    weakness : ghost dark
+    strength : poison bug
+banette
+    type1 : ghost
+    type2 :
+    hp : 171
+    attack : 183
+    defense : 128
+    specialAttack : 148
+    specialDefense : 126
+    speed : 128
+    weakness : ghost dark
+    strength : poison bug
+duskull
+    type1 : ghost
+    type2 :
+    hp : 127
+    attack : 101
+    defense : 156
+    specialAttack : 90
+    specialDefense : 156
+    speed : 84
+    weakness : ghost dark
+    strength : poison bug
+dusclops
+    type1 : ghost
+    type2 :
+    hp : 147
+    attack : 134
+    defense : 200
+    specialAttack : 123
+    specialDefense : 200
+    speed : 84
+    weakness : ghost dark
+    strength : poison bug
+tropius
+    type1 : grass
+    type2 : flying
+    hp : 206
+    attack : 132
+    defense : 148
+    specialAttack : 136
+    specialDefense : 152
+    speed : 113
+    weakness : flying poison rock fire ice
+    strength : fighting water grass
+chimecho
+    type1 : psychic
+    type2 :
+    hp : 182
+    attack : 112
+    defense : 145
+    specialAttack : 161
+    specialDefense : 156
+    speed : 128
+    weakness : bug ghost dark
+    strength : fighting psychic
+absol
+    type1 : dark
+    type2 :
+    hp : 172
+    attack : 200
+    defense : 123
+    specialAttack : 139
+    specialDefense : 123
+    speed : 139
+    weakness : fighting bug fairy
+    strength : ghost dark
+wynaut
+    type1 : psychic
+    type2 :
+    hp : 202
+    attack : 82
+    defense : 110
+    specialAttack : 82
+    specialDefense : 110
+    speed : 82
+    weakness : bug dark ghost
+    strength : fighting psychic
+snorunt
+    type1 : ice
+    type2 :
+    hp : 157
+    attack : 112
+    defense : 112
+    specialAttack : 112
+    specialDefense : 112
+    speed : 112
+    weakness : fighting rock steel fire
+    strength : ice
+glalie
+    type1 : ice
+    type2 :
+    hp : 187
+    attack : 145
+    defense : 145
+    specialAttack : 145
+    specialDefense : 145
+    speed : 145
+    weakness : fighting rock steel fire
+    strength : ice
+spheal
+    type1 : ice
+    type2 : water
+    hp : 177
+    attack : 101
+    defense : 112
+    specialAttack : 117
+    specialDefense : 112
+    speed : 84
+    weakness : fighting rock grass electric
+    strength : water ice
+sealeo
+    type1 : ice
+    type2 : water
+    hp : 197
+    attack : 123
+    defense : 134
+    specialAttack : 139
+    specialDefense : 134
+    speed : 106
+    weakness : fighting rock grass electric
+    strength : water ice
+walrein
+    type1 : ice
+    type2 : water
+    hp : 217
+    attack : 145
+    defense : 156
+    specialAttack : 161
+    specialDefense : 156
+    speed : 128
+    weakness : fighting rock grass electric
+    strength : water ice
+clamperl
+    type1 : water
+    type2 :
+    hp : 142
+    attack : 127
+    defense : 150
+    specialAttack : 138
+    specialDefense : 117
+    speed : 92
+    weakness : grass electric
+    strength : steel fire water ice
+huntail
+    type1 : water
+    type2 :
+    hp : 162
+    attack : 171
+    defense : 172
+    specialAttack : 160
+    specialDefense : 139
+    speed : 114
+    weakness : grass electric
+    strength : steel fire water ice
+gorebyss
+    type1 : water
+    type2 :
+    hp : 162
+    attack : 149
+    defense : 172
+    specialAttack : 182
+    specialDefense : 139
+    speed : 114
+    weakness : grass electric
+    strength : steel fire water ice
+relicanth
+    type1 : water
+    type2 : rock
+    hp : 207
+    attack : 156
+    defense : 200
+    specialAttack : 106
+    specialDefense : 128
+    speed : 117
+    weakness : fighting ground grass electric
+    strength : normal flying poison fire ice
+luvdisc
+    type1 : water
+    type2 :
+    hp : 150
+    attack : 90
+    defense : 117
+    specialAttack : 101
+    specialDefense : 128
+    speed : 163
+    weakness : grass electric
+    strength : steel fire water ice
+bagon
+    type1 : dragon
+    type2 :
+    hp : 152
+    attack : 139
+    defense : 123
+    specialAttack : 101
+    specialDefense : 90
+    speed : 112
+    weakness : ice dragon fairy
+    strength : fire water grass electric
+shelgon
+    type1 : dragon
+    type2 :
+    hp : 172
+    attack : 161
+    defense : 167
+    specialAttack : 123
+    specialDefense : 112
+    speed : 112
+    weakness : ice dragon fairy
+    strength : fire water grass electric
+salamence
+    type1 : dragon
+    type2 : flying
+    hp : 202
+    attack : 202
+    defense : 145
+    specialAttack : 178
+    specialDefense : 145
+    speed : 167
+    weakness : rock ice dragon fairy
+    strength : fighting bug fire water grass
+beldum
+    type1 : steel
+    type2 : psychic
+    hp : 147
+    attack : 117
+    defense : 145
+    specialAttack : 95
+    specialDefense : 123
+    speed : 90
+    weakness : ground ghost fire dark
+    strength : normal flying rock steel grass psychic ice dragon fairy
+metang
+    type1 : steel
+    type2 : psychic
+    hp : 167
+    attack : 139
+    defense : 167
+    specialAttack : 117
+    specialDefense : 145
+    speed : 112
+    weakness : ground ghost fire dark
+    strength : normal flying rock steel grass psychic ice dragon fairy
+metagross
+    type1 : steel
+    type2 : psychic
+    hp : 187
+    attack : 205
+    defense : 200
+    specialAttack : 161
+    specialDefense : 156
+    speed : 134
+    weakness : ground ghost fire dark
+    strength : normal flying rock steel grass psychic ice dragon fairy
+regirock
+    type1 : rock
+    type2 :
+    hp : 187
+    attack : 167
+    defense : 277
+    specialAttack : 112
+    specialDefense : 167
+    speed : 112
+    weakness : fighting ground steel water grass
+    strength : normal flying poison fire
+regice
+    type1 : ice
+    type2 :
+    hp : 187
+    attack : 112
+    defense : 167
+    specialAttack : 167
+    specialDefense : 277
+    speed : 112
+    weakness : fighting rock steel fire
+    strength : ice
+registeel
+    type1 : steel
+    type2 :
+    hp : 187
+    attack : 139
+    defense : 222
+    specialAttack : 139
+    specialDefense : 222
+    speed : 112
+    weakness : fighting ground fire
+    strength : normal flying rock bug steel grass psychic ice dragon fairy
+latias
+    type1 : dragon
+    type2 : psychic
+    hp : 187
+    attack : 167
+    defense : 189
+    specialAttack : 211
+    specialDefense : 222
+    speed : 178
+    weakness : bug ghost ice dragon dark fairy
+    strength : fighting fire water grass electric psychic
+latios
+    type1 : dragon
+    type2 : psychic
+    hp : 187
+    attack : 156
+    defense : 145
+    specialAttack : 200
+    specialDefense : 178
+    speed : 178
+    weakness : bug ghost ice dragon dark fairy
+    strength : fighting fire water grass electric psychic
+kyogre
+    type1 : water
+    type2 :
+    hp : 207
+    attack : 222
+    defense : 156
+    specialAttack : 255
+    specialDefense : 233
+    speed : 156
+    weakness : grass electric
+    strength : steel fire water ice
+groudon
+    type1 : ground
+    type2 :
+    hp : 207
+    attack : 222
+    defense : 211
+    specialAttack : 167
+    specialDefense : 156
+    speed : 156
+    weakness : water grass ice
+    strength : poison rock electric
+rayquaza
+    type1 : dragon
+    type2 : flying
+    hp : 212
+    attack : 222
+    defense : 156
+    specialAttack : 222
+    specialDefense : 156
+    speed : 161
+    weakness : rock ice dragon fairy
+    strength : fighting bug fire water grass
+jirachi
+    type1 : steel
+    type2 : psychic
+    hp : 207
+    attack : 167
+    defense : 167
+    specialAttack : 167
+    specialDefense : 167
+    speed : 167
+    weakness : ground ghost fire dark
+    strength : normal flying rock steel grass psychic ice dragon fairy
+deoxys
+    type1 : psychic
+    type2 :
+    hp : 157
+    attack : 255
+    defense : 79
+    specialAttack : 255
+    specialDefense : 79
+    speed : 222
+    weakness : bug ghost dark
+    strength : fighting psychic

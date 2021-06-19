@@ -1,0 +1,12 @@
+treecko
+    type1 : grass
+    type2 : none
+    hp : 40
+    attack : 45
+    defense : 35
+    specialAttack : 65
+    specialDefense : 35
+    speed : 70
+    weakness : fire ice poison flying bug
+    strength : water electric grass ground
+Grovyle

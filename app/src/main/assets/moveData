@@ -1,0 +1,7 @@
+astonish
+    type : ghost
+    category : physical
+    power : 30
+    accuracy : 100
+    pp : 15
+    info : May cause flinching
